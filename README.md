@@ -1,7 +1,7 @@
 # RFM_Segmentation_Sales_Analysis
 
 ## Intoduction
-This analysis presents a comprehensive overview of sales performance and customer insights for the years 2002 to 2005. The dashboard serves as a powerful tool for visualizing key metrics and trends, enabling data-driven decision-making for the Turbo Charge Auto PLC. Through this analysis, we delve into various aspects of sales data, including product line performance, deal size distribution, geographical sales distribution, and customer churn segments. Additionally, we identify major sales drivers across different territories, cities, and product lines.
+This analysis presents a comprehensive overview of sales performance and customer insights for the years 2003 to 2005. The dashboard serves as a powerful tool for visualizing key metrics and trends, enabling data-driven decision-making for the Turbo Charge Auto PLC. Through this analysis, we delve into various aspects of sales data, including product line performance, deal size distribution, geographical sales distribution, and customer churn segments. Additionally, we identify major sales drivers across different territories, cities, and product lines.
 
 By examining these critical components, the analysis aims to uncover actionable insights that can guide strategic initiatives to enhance sales performance, optimize marketing efforts, and improve customer retention. This report highlights the most significant findings and provides recommendations to leverage strengths and address areas of concern within the sales and customer relationship landscape.
 
