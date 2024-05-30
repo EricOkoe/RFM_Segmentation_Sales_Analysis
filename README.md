@@ -25,7 +25,12 @@ We analyze customers based on how recently (R), how often (F), and how much (M) 
    - Sales Trend: Track how revenue and quantity ordered have changed over time.
    - Products Sold Together (Product Affinity): Analyze which products are frequently purchased together in the same transactions.
 
-### Visualization
+## Data Modeling
+   - We created a data model from the sales dataset, enhancing performance when generating Power BI visuals.
+
+![Screenshot 2024-05-30 131103](https://github.com/EricOkoe/World_Layoffs_Analysis_MYSQL/assets/80605648/a8d5f7eb-e4f6-44f5-bf8e-bd48742a0d3d)
+
+## Visualization
 ![Screenshot 2024-05-29 221514](https://github.com/EricOkoe/World_Layoffs_Analysis_MYSQL/assets/80605648/da6f9560-19fe-4cc3-b1de-2b44d1d3196b)
 
 ## Insights
