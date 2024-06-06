@@ -38,7 +38,9 @@ We analyze customers based on how recently (R), how often (F), and how much (M) 
 ### Sales Performance Insights
 
 **Overall Sales Trend:**
-   - There was a significant increase in sales and quantity ordered in the year 2003, especially towards the end of the year. This indicates a period of high demand or successful sales strategies during this time.
+   - Sales reached their highest point in 2004, achieving a record-breaking revenue of USD 1.09 million.
+   - Each fiscal year, sales hit their lowest point in the first quarter and then peak in the fourth quarter (November), highlighting the seasonality in sales.
+   - This pattern suggests a period of high demand or the implementation of successful sales strategies during the fourth quarter.
 
 **Product Line Performance:**
    - **Classic Cars** and **Vintage Cars** are the dominant product lines, contributing the most to the sales revenue.
